@@ -1,0 +1,21 @@
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.list 
+{
+    color: rgb(196, 193, 40);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+.list .cool
+{
+    color: green;
+    font-weight: bold;
+}
+.list .bad
+{
+    color: brown;
+    font-style: italic;
+}
