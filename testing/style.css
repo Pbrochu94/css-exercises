@@ -1,6 +1,7 @@
+
 body
 {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
 
 .list 
@@ -18,4 +19,33 @@ body
 {
     color: brown;
     font-style: italic;
+}
+
+#end
+{
+    background-color: blueviolet !important;
+}
+
+#end
+{
+    background-color: aqua;
+}
+
+.container
+{
+    display: flex;
+    width:100px;
+    background-color:blue;
+}
+
+.box1
+{
+    height: 100px;
+    width: 100px;
+}
+
+.box2
+{
+    height: 100px;
+    width: 100px;
 }
