@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+.promptSection
+{
+    display: flex;
+    gap:4px;
+}
+
